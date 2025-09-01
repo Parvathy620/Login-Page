@@ -25,7 +25,7 @@ This project can be used as a starter template for authentication systems or web
 
 ## 📸 Screenshot
 
-![Login Page Screenshot](screenshot.png)
+![Login Page Screenshot](Screenshot.png)
 
 
 ---
